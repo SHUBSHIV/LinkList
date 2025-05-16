@@ -1,4 +1,4 @@
-LinkList DSA Problem
+Linked List DSA Problem
 📌 Remove Duplicates from Sorted List
 1.Remove Duplicates from Sorted List (Leetcode 83)
 
